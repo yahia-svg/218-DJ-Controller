@@ -48,6 +48,7 @@ This is a fully DIY DJ Controller. This repository includes the general 3D desig
 |1|Connector|Female DC Power Plug to 2-Pin|0.1 USD|https://fluxelectronix.com/shop/female-dc-power-plug-to-2-pin-screw-terminal/|
 |1|Connector|AUX 3.5mm Female Jack|0.1 USD|https://makerselectronics.com/product/aux-3-5mm-female-jack-solder-connector/|
 |2|Magnetic Rotary Position|as5047d|14 USD|https://www.alibaba.com/product-detail/AS5047D-AS5047P-Encoder-Adapter-Board-SimpleFOC_60824124421.html?xp=CjwKCAjwiL7VBhA-EiwAhZi9EPFAbgCuHDgqsBXgO3WVVnwhHE37JqkiqNlWaf1b_Q_aOUigJJRrVBoCLakQAvD_BwEsMbeanHAIqwcTEART57S-&cps_sk=q5c7g489&bm=cps&src=saf&pid=ga2dsa&tp1=CjwKCAjwiL7VBhA-EiwAhZi9EPFAbgCuHDgqsBXgO3WVVnwhHE37JqkiqNlWaf1b_Q_aOUigJJRrVBoCLakQAvD_BwE&gad_source=1&gad_campaignid=24185825227&gbraid=0AAAABD4gRWE6hLx6Puv_ZA-zHFVsF1zu0&gclid=CjwKCAjwiL7VBhA-EiwAhZi9EPFAbgCuHDgqsBXgO3WVVnwhHE37JqkiqNlWaf1b_Q_aOUigJJRrVBoCLakQAvD_BwE|
+<br>
 **Extra Services Used**
 ---
 `This section mentions the extra services or technologies that you will need to utilize to build the project and how/why/for what you will use them.`
