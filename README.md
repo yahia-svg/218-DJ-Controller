@@ -21,30 +21,32 @@ This is a fully DIY DJ Controller. This repository includes the general 3D desig
 `This section has a table including all the data about the electronic components needed for building this DJ Controller. The table lists the number of pieces needed for each component (quantity); the type of component/actuator (Type); the exact model name for the component (Module); the total amount of money spent to buy the full quantity of the component (price) aka if we're buying 20 buttons, the "price" is the total money needed to buy all 20 buttons; and finally the link address where you can buy this exact component online (Link).`
 | Quantity | Type | Module | Price | Link |
 |----------|------|:-------:|------|------|
-|1|Microcontroller|Teensy 4.1 Microcontroller|57 USD|https://devboardsmarket.com/products/teensy-4-1
-|2|Multiplixer|74HC4067 16-Channel Analog Digital Multiplexer|3 USD|https://www.ram-e-shop.com/shop/kit-multiplexer-744067-74hc4067-16-channel-analog-digital-multiplexer-breakout-board-8009
-|15|Rotary Potentiometer|R0902N rotary potentiometer 10kohm|5 USD|https://ar.aliexpress.com/item/1005007976451892.html?gatewayAdapt=glo2ara
-|6|Slide Potentiometer|b103 rotary potentiometer 10kohm|6 USD|https://microohm-eg.com/linear-slide-pot-10k-103-mixer-style-88-mm-body-3-electrical-pins-2-mounting-lugs/
-|4|Rotary Encoder|EC11 Rotary Encoder|2 USD|https://www.ram-e-shop.com/shop/pot-ec11-rotary-5pin-20mm-ec11-rotary-encoder-with-push-button-switch-5pin-20mm-silver-9624?srsltid=AU7gw4X7FVfdkLHMxx39-0TqMu4-kT5Zp2LIeBuxGGReUEAjG0sGj-GZ
-|2|Bearing|608ZZ Shielded Miniature Ball Bearing|0.5 USD|https://ampere-electronics.com/product/608zz-shielded-miniature-ball-bearing-8x22x7mm/
-|20|LEDs|NeoPixel 1-bit WS2812 5050 RGB LED Driver|13.4 USD|https://www.ram-e-shop.com/shop/kit-ws2812-single-neopixel-1-bit-ws2812-5050-rgb-led-driver-development-board-8258?srsltid=AU7gw4VgLywzAkNsH-dn0ZJxllWlD6Ye3m8D_xr_mt_QzIFbYNpsm9BW
-|50|Resistors|10 kohm Carbon Resistance 1/4W|0.5 USD|https://www.ram-e-shop.com/shop/carbon-resistance-1-4w-price-per-4-resistors-9506#attr=314
-|50|Resistors|220 Carbon Resistance 1/4W|0.5 USD|https://www.ram-e-shop.com/shop/carbon-resistance-1-4w-price-per-4-resistors-9506#attr=314
-|20|Capacitor|Ceramic Capacitor 100nF - 400V (104J400V) Disc 10mm|3 USD|https://ampere-electronics.com/product/ceramic-capacitor-100nf-400v-104j400v-disc-10mm/
-|10|Capacitor|Ceramic Capacitor 1uF - 630v (105J630V) Disc 20mm|1.5 USD|https://ampere-electronics.com/product/ceramic-capacitor-1uf-630v-105j630v-disc-20mm/
-|5|Capacitor|Electrolytic Capacitor 100uF - 50V|0.1 USD|https://ampere-electronics.com/product/electrolytic-capacitor-100uf-50v/
-|5|Capacitor|Electrolytic Capacitor 100uF - 50V|0.1 USD|https://ampere-electronics.com/product/electrolytic-capacitor-10uf-50v/
-|1|Power Supply|Wall Power Adapter 5Vdc 3A|5 USD|https://www.ram-e-shop.com/shop/rpi4-adaptor-onoff-wall-power-adapter-usb-type-c-output-5vdc-3a-with-on-off-switch-7840
-|4|Wires|2mm Electric Copper Wire 11 AWG, 1 Meter ElSewedy Electric|3 USD|https://fluxelectronix.com/shop/electric-copper-wire-2mm-15-awg-1-meter-el-sewedy-electric/
-|1|Screws|Bolt +M3x08 mm (100 Screws/bag)|1 USD|https://www.ram-e-shop.com/shop/nail-3x08mm-bolt-m3x08-mm-100-screws-bag-6546
-|2|Connector|Pin Header Male 1x40|0.1 USD|https://www.ram-e-shop.com/shop/ph1-1x40-male-ph1-pin-header-male-1x40-straight-2-54mm-5808
-|2|...|Breadboard 830|1.2 USD|https://www.ram-e-shop.com/shop/bb01-bread-board-bb-01-breadboard-830-tie-point-6143
-|43|Buttons|DS-430 Push Button Momentary Switch Square Shape 2 Pin|4 USD|https://makerselectronics.com/product/ds-430-push-button-momentary-switch-square-shape-2-pin/
-|1|Connector|Dupont Crimp Connector Kit - 310 Pcs|2.5 USD|https://fluxelectronix.com/shop/dupont-crimp-connector-kit-310pcs/
-|1|Socket|Audio Microphone Female Socket|0.1 USD|https://lampatronics.com/product/audio-microphone-female-socket-jack-japan-6-35mm-6pin-stereo-pj-609?srsltid=AU7gw4XiA7R56UENAIxl4PDR0Mzh5HVzqPs_Ftcq0OPw0dya_bEFeapk
-|1|Switch|Metal Switch On/Off 12mm|1.5 USD|https://lampatronics.com/product/audio-microphone-female-socket-jack-japan-6-35mm-6pin-stereo-pj-609?srsltid=AU7gw4XiA7R56UENAIxl4PDR0Mzh5HVzqPs_Ftcq0OPw0dya_bEFeapk
-|1|Cable|Micro USB Cable for Arduino|0.5 USD|https://fluxelectronix.com/shop/micro-usb-cable-for-arduino-30cm-length/
-
+|1|Microcontroller|Teensy 4.1 Microcontroller|57 USD|https://devboardsmarket.com/products/teensy-4-1|
+|2|Multiplixer|74HC4067 16-Channel Analog Digital Multiplexer|3 USD|https://www.ram-e-shop.com/shop/kit-multiplexer-744067-74hc4067-16-channel-analog-digital-multiplexer-breakout-board-8009|
+|15|Rotary Potentiometer|R0902N rotary potentiometer 10kohm|5 USD|https://ar.aliexpress.com/item/1005007976451892.html?gatewayAdapt=glo2ara|
+|6|Slide Potentiometer|b103 rotary potentiometer 10kohm|6 USD|https://microohm-eg.com/linear-slide-pot-10k-103-mixer-style-88-mm-body-3-electrical-pins-2-mounting-lugs/|
+|4|Rotary Encoder|EC11 Rotary Encoder|2 USD|https://www.ram-e-shop.com/shop/pot-ec11-rotary-5pin-20mm-ec11-rotary-encoder-with-push-button-switch-5pin-20mm-silver-9624?srsltid=AU7gw4X7FVfdkLHMxx39-0TqMu4-kT5Zp2LIeBuxGGReUEAjG0sGj-GZ|
+|2|Bearing|608ZZ Shielded Miniature Ball Bearing|0.5 USD|https://ampere-electronics.com/product/608zz-shielded-miniature-ball-bearing-8x22x7mm/|
+|20|LEDs|NeoPixel 1-bit WS2812 5050 RGB LED Driver|13.4 USD|https://www.ram-e-shop.com/shop/kit-ws2812-single-neopixel-1-bit-ws2812-5050-rgb-led-driver-development-board-8258?srsltid=AU7gw4VgLywzAkNsH-dn0ZJxllWlD6Ye3m8D_xr_mt_QzIFbYNpsm9BW|
+|50|Resistors|10 kohm Carbon Resistance 1/4W|0.5 USD|https://www.ram-e-shop.com/shop/carbon-resistance-1-4w-price-per-4-resistors-9506#attr=314|
+|50|Resistors|220 Carbon Resistance 1/4W|0.5 USD|https://www.ram-e-shop.com/shop/carbon-resistance-1-4w-price-per-4-resistors-9506#attr=314|
+|20|Capacitor|Ceramic Capacitor 100nF - 400V (104J400V) Disc 10mm|3 USD|https://ampere-electronics.com/product/ceramic-capacitor-100nf-400v-104j400v-disc-10mm/|
+|10|Capacitor|Ceramic Capacitor 1uF - 630v (105J630V) Disc 20mm|1.5 USD|https://ampere-electronics.com/product/ceramic-capacitor-1uf-630v-105j630v-disc-20mm/|
+|5|Capacitor|Electrolytic Capacitor 100uF - 50V|0.1 USD|https://ampere-electronics.com/product/electrolytic-capacitor-100uf-50v/|
+|5|Capacitor|Electrolytic Capacitor 100uF - 50V|0.1 USD|https://ampere-electronics.com/product/electrolytic-capacitor-10uf-50v/|
+|1|Power Supply|Wall Power Adapter 5Vdc 3A|5 USD|https://www.ram-e-shop.com/shop/rpi4-adaptor-onoff-wall-power-adapter-usb-type-c-output-5vdc-3a-with-on-off-switch-7840|
+|4|Wires|2mm Electric Copper Wire 11 AWG, 1 Meter ElSewedy Electric|3 USD|https://fluxelectronix.com/shop/electric-copper-wire-2mm-15-awg-1-meter-el-sewedy-electric/|
+|1|Screws|Bolt +M3x08 mm (100 Screws/bag)|1 USD|https://www.ram-e-shop.com/shop/nail-3x08mm-bolt-m3x08-mm-100-screws-bag-6546|
+|2|Connector|Pin Header Male 1x40|0.1 USD|https://www.ram-e-shop.com/shop/ph1-1x40-male-ph1-pin-header-male-1x40-straight-2-54mm-5808|
+|2|...|Breadboard 830|1.2 USD|https://www.ram-e-shop.com/shop/bb01-bread-board-bb-01-breadboard-830-tie-point-6143|
+|43|Buttons|DS-430 Push Button Momentary Switch Square Shape 2 Pin|4 USD|https://makerselectronics.com/product/ds-430-push-button-momentary-switch-square-shape-2-pin/|
+|1|Connector|Dupont Crimp Connector Kit - 310 Pcs|2.5 USD|https://fluxelectronix.com/shop/dupont-crimp-connector-kit-310pcs/|
+|1|Socket|Audio Microphone Female Socket|0.1 USD|https://lampatronics.com/product/audio-microphone-female-socket-jack-japan-6-35mm-6pin-stereo-pj-609?srsltid=AU7gw4XiA7R56UENAIxl4PDR0Mzh5HVzqPs_Ftcq0OPw0dya_bEFeapk|
+|1|Switch|Metal Switch On/Off 12mm|1.5 USD|https://lampatronics.com/product/audio-microphone-female-socket-jack-japan-6-35mm-6pin-stereo-pj-609?srsltid=AU7gw4XiA7R56UENAIxl4PDR0Mzh5HVzqPs_Ftcq0OPw0dya_bEFeapk|
+|1|Cable|Micro USB Cable for Arduino|0.5 USD|https://fluxelectronix.com/shop/micro-usb-cable-for-arduino-30cm-length/|
+|2|Connector|Female USB Connector Type(A) DIP|0.1 USD|https://fluxelectronix.com/shop/female-usb-connector-type-a-dip/|
+|1|Connector|Female DC Power Plug to 2-Pin|0.1 USD|https://fluxelectronix.com/shop/female-dc-power-plug-to-2-pin-screw-terminal/|
+|1|Connector|AUX 3.5mm Female Jack|0.1 USD|https://makerselectronics.com/product/aux-3-5mm-female-jack-solder-connector/|
 **Extra Services Used**
 ---
 `This section mentions the extra services or technologies that you will need to utilize to build the project and how/why/for what you will use them.`
