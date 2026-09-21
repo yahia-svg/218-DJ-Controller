@@ -66,3 +66,20 @@ I worked for a little on some other miscellaneous stuff, like the BoM by adding 
 ---
 After remembering ow stupid I am and that there is something called ERC in KiCad and found several problems with the old one, making it obsolete.
 From stupid problems such as duplicate reference (U2) and shorting a 3.3V pin to GND in Teensy, to much more bigger problems such as not using global labels which disconnected all the sheets from each other, making them completely ineffective, and swapping the ground and logic supply for the entire LED grid. I also added more coupling and filtering to make this circuit more resembling to real life.
+
+---
+A final change for today, I replaced the rotary encoders, for the jog, with magnetic rotary position sensors which will increase efficiency. I also replaced the Teensy 4.0 in the schem with 4.1, I used 4.0 initially because it looked simpler.
+
+---
+Journal Links:
+https://lapse.hackclub.com/timelapse/9HSuw6ijgOAE
+https://lapse.hackclub.com/timelapse/OjnOfFxcyOtB
+https://lapse.hackclub.com/timelapse/4eUOfzpiVSXv
+https://lapse.hackclub.com/timelapse/dJgap3DlKfkE
+https://lapse.hackclub.com/timelapse/16tVSgQC2hcQ
+https://lapse.hackclub.com/timelapse/FWIT91Rc2bJZ
+https://lapse.hackclub.com/timelapse/ID_0dAGPpfu-
+https://lapse.hackclub.com/timelapse/Rr1lFko1LJV_
+https://lapse.hackclub.com/timelapse/GRKJxnAV0saB
+https://lapse.hackclub.com/timelapse/HdR1McedKOW6
+https://lapse.hackclub.com/timelapse/hXlyyBR2OCXZ
