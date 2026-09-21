@@ -146,7 +146,9 @@ Now, you're finally ready to start building; all the things you need are ready. 
 
 -Schem is a folder within the repository that contains all the schematic-related files.
 
+-Zine 1 and Zine 2 are two visual methods of representing the project.
 
+-Acrylic cuts is a folder that contains the acrylic sheet cuts that will be used in the device.
 **Plans for next week**
 ---
 `This section gives a brief idea of what we plan to do and accomplish within the next week.`
