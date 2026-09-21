@@ -59,3 +59,4 @@ After that I added the (plans for next week) section which, as the name implies,
 To finalize this nice (hopefully) README, I added some formatting and styling effects for the README to have a better and more professional look. I also added a brief description of each section right at the beginning.
 
 
+Doing another very important thing, my team wanted to have a visual representation that would help promote the project. For that reason, we opted to use a Zine. I was the one who designed the zines (we designed 2 zines, both are available in the repository). Though to be honest, I don't think the zines are that good, I didn't design a Zine before and it's actually my first time ever dealing with one, but I am trying to look at more good choices and hopefully improve them by next week.
