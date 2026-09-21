@@ -6,8 +6,10 @@ Created_at: "2026-09-20"
 ---
 
 # Septemper 20 : 
-total time spent X
-lapse links: 
+total time spent 11.1 hrs <br>
+
+lapse links: part1: https://lapse.hackclub.com/timelapse/nAk_ChLudF3S <br>
+part 2 : https://lapse.hackclub.com/timelapse/eGmrk4pUCh6i
 
 At first I had to search about every thing about these DJs that are spread around the world right now, focusing on models that are having good features with keeping the cost as a variable like DDJ FLX4.
 I watched some videos explaining each button and each feature with explaining the way it works and importance. So I started to decide our DJ features taking some common features and added some like the cue button and the 16 performance pads with leds changing their intensity and colors. 
