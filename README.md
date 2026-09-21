@@ -3,7 +3,8 @@ A fully DIY DJ controller.
 
 **Introduction**
 ---
-
+`A brief intro about the project and the repository.`
+<br>
 This is a fully DIY DJ Controller. This repository includes the general 3D design of the DJ controller, some unique independent components, the firmware that runs the device, and the schematic showing the circuit connections that power the DJ Controller. 
 **Note:** This project is not complete yet. As a result, you may find missing components and designs still under development.
 
@@ -125,7 +126,7 @@ This shows the schematic diagram for the LEDs used in the circuit powering the D
 You will need to get all the electronic components that we listed in the materials table above. In addition, it is really important that you get the same number of pieces if you wish to implement this project at the same scale we did.
 
 **2. 3D printing and CNC cutting**
-After getting the electronic components, you will be missing some pieces. You will have to get some parts printed first. These are the caps used for the pads and potentiometers. Sure, you could avoid using caps at all, and with that you won't have to print any parts, but having these caps significantly changes how your device looks visually (to the better, of course). Then, it is necessary that you build the body for the controller. We chose to build it using acrylic. If you wish to do the same, then relying on CNC Cutting is the most efficient method to build that body.
+After getting the electronic components, you will be missing some pieces. You will have to get some parts printed first. These are the caps used for the pads and potentiometers. Sure, you could avoid using caps at all, and with that you won't have to print any parts, but having these caps significantly changes how your device looks visually (to the better, of course). Then, it is necessary that you build the body for the controller. We chose to build it using acrylic. If you wish to do the same, then relying on CNC Cutting is the most efficient method to build that body. After cutting the Acrylic into the desired shape, you will probably need to use heating mechanisms to shape into the final required shape.
 
 **3. Placement and Wiring**
 Now, you're finally ready to start building; all the things you need are ready. What you need to do now is get the body you're using and place the electronics in their designated places/locations as per the full 3D model provided above. Then, you should start wiring and connecting all the components with the help of the schematic diagrams we provided above.
@@ -133,7 +134,7 @@ Now, you're finally ready to start building; all the things you need are ready. 
 
 **Repo Layout**
 ---
-`This section gives you a quick and brief walkthrough of all these files you see in the github repository and what you can expect to see in each file.`
+`This section gives you a quick and brief walkthrough of all these files you see in the GitHub repository and what you can expect to see in each file.`
 <br>
 -Mohamed'sJournal.md contains Mohamed's work and contributions to the device, which include feature selection, BOM, and 3D design of the device's body.
 
@@ -143,7 +144,32 @@ Now, you're finally ready to start building; all the things you need are ready. 
 
 -Moaz's Journal contains Moaz's contributions to the project, which mainly revolve around designing the electronic circuit powering the device by drawing a schematic diagram (like the ones provided above).
 
+-Schem is a folder within the repository that contains all the schematic-related files.
 
 
+**Plans for next week**
+---
+`This section gives a brief idea of what we plan to do and accomplish within the next week.`
+- Develop firmware
+- Finalize Designs for 3D-printed components
+- Run final tests to make sure the device is running and operating correctly.
+
+**Expected Project Status**
+---
+`This section describes the results that we expect to achieve within the time span of the next week, after fulfilling our goals/plans described in the above section (Plans for next week)`
+- 3D-printed components' design: Complete
+- Circuit analysis: Complete and fully operational
+- Project Progress Overall: Complete
+- Next Step: IRL Prototype Building
 
 
+**FAQs**
+---
+`This section includes the answers to the most commonly discussed topics within or ouside of your main community discussion topics.`
+**Why build a DIY DJ Controller?**
+<br>
+If you love music, it's definitely a great investment. You will get to tune, mix, and use as many effects as you want on your favourite songs/music. In addition, you can just try and explore new stuff using this new device. Now, if you don't love music, it's still really fun to just play with it and do random stuff. Also, it's really cool; just imagine how cool it would be to play DJ for your friends when they come over or just give them the opportunity to play with it for a while. It's just super fun.
+
+**I don't have much experience building stuff. Can I still build this?**
+<br>
+Definitely yes. We didn't have that much experience ourselves. In fact, I think that this is my first or one of my first ever hardware/electronics projects to work on. So, to answer your question, yes, you can build this yourselves (THis is not an overly optimistic future; it's actually totally realistic.
